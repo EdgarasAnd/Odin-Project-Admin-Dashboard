@@ -1,1 +1,7 @@
-/*# sourceMappingURL=style.css.map */
+.material-symbols-outlined {
+  color: white;
+}
+
+.btn.material-symbols-outlined:hover {
+  background-color: white;
+}/*# sourceMappingURL=style.css.map */
