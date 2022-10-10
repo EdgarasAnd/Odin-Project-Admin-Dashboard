@@ -4,4 +4,8 @@
 
 .btn.material-symbols-outlined:hover {
   background-color: white;
+}
+
+.card {
+  border-left: 6px solid rgb(255, 196, 0);
 }/*# sourceMappingURL=style.css.map */
